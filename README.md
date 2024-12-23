@@ -1,8 +1,8 @@
 
-Developed by:S SIDDHARTH
+Developed by:S INFANT JESUS
 
 
-RegisterNumber: 24002384
+RegisterNumber: 24001856
 
 # HALF_ADDER_SUBTRACTOR
 
